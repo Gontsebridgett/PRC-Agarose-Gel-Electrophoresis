@@ -1,0 +1,15 @@
+band_id,type,migration_mm,known_size_bp,expected_size_bp
+Ladder_100,ladder,80.0,100,
+Ladder_200,ladder,65.0,200,
+Ladder_300,ladder,55.0,300,
+Ladder_400,ladder,48.0,400,
+Ladder_500,ladder,42.0,500,
+Ladder_600,ladder,37.0,600,
+Ladder_700,ladder,33.0,700,
+Ladder_800,ladder,29.0,800,
+Ladder_900,ladder,26.0,900,
+Ladder_1000,ladder,23.0,1000,
+Ladder_1500,ladder,12.0,1500,
+Ladder_2000,ladder,5.0,2000,
+PCR_Product_1,sample,58.0,,230
+PCR_Product_2,sample,75.0,,230
